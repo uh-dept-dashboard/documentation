@@ -37,7 +37,6 @@ module.exports = {
     ],
     'Developer Guide': [
         'developers/overview',
-        'developers/tech-stack',
       {
         type: 'category',
         label: 'User Interface',
@@ -47,9 +46,9 @@ module.exports = {
       },
       {
         type: 'category',
-        label: 'Scrapers',
+        label: 'Scripts',
         items: [
-          'developers/scrapers/overview',
+          'developers/scripts/overview',
         ],
       },
     ],

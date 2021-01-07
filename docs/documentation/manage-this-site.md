@@ -9,9 +9,9 @@ This site is implemented using [Docusaurus 2](http://v2.docusaurus.io). Here is 
 
 You will want to create a local installation of this site in order to develop your documentation.
 
-First, you must have commit/push privileges to internaloha/internaloha.github.io and internaloha/documentation repositories on GitHub.  You can obtain those privileges from Philip Johnson.
+First, you must have commit/push privileges to uh-dept-dashboard/uh-dept-dashboard.github.io and uh-dept-dashboard/documentation repositories on GitHub.  You can obtain those privileges from Philip Johnson.
 
-Next, download the [InternAloha documentation repository](https://github.com/internaloha/documentation).
+Next, download the [uh-dept-dashboard/documentation repository](https://github.com/uh-dept-dashboard/documentation).
 
 Next, cd into the documentation directory and invoke `npm install`.
 

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://uh-dept-dashboard.github.io/blog</id>
+    <title>UH Department Dashboard Blog</title>
+    <updated>2020-01-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://uh-dept-dashboard.github.io/blog"/>
+    <subtitle>UH Department Dashboard Blog</subtitle>
+    <icon>https://uh-dept-dashboard.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>Welcome</id>
+        <link href="https://uh-dept-dashboard.github.io/documentation/blog/2020/01/06/welcome"/>
+        <updated>2020-01-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This documentation site for UH Department Dashboard is now live!]]></summary>
+    </entry>
+</feed>

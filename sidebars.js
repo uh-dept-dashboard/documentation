@@ -5,6 +5,7 @@ module.exports = {
         'overview/walkthrough',
         'overview/design-overview',
         'overview/privacy',
+        'overview/measurement-dysfunction',
     ],
     'Requirements': [
         'requirements/overview',
